@@ -1,7 +1,7 @@
 # UofT STA410/2102 Statistical Computation
-## [Programming Homework Assignment 0](sta410hw0.ipynb) 
+## Programming Homework Assignment 0
 
-This assignment introduces Python through the following foundational computational and statistical computation problems:
+[Programming Homework Assignment 0](sta410hw0.ipynb)  introduces Python through the following foundational computational and statistical computation problems:
 
 1. Bit string representation of integer value numbers
 2. Pseudorandom integer generation with modulus
