@@ -1,5 +1,13 @@
 # UofT STA410/2102 Statistical Computation
-## Programming Homework Assignment 0
+## [Programming Homework Assignment 0](sta410hw0.ipynb) 
+
+introduces Python and some key topics underlying statistical computation 
+
+1. Bit string representation of integer value numbers
+2. Pseudorandom integer generation with modulus
+3. Floating-point error accumulation reduction
+4. High precision single pass variance calculations
+
 
 UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
 
@@ -15,8 +23,3 @@ Alternatively, the programming problems may also be accessed without UofT authen
 
 > https://colab.research.google.com/github/pointOfive/sta410hw0/blob/master/sta410hw0.ipynb
 
-0. [Programming Homework Assignment 0](sta410hw0.ipynb) introduces Python and some key topics underlying statistical computation 
-   1. Bit string representation of integer value numbers
-   2. Pseudorandom integer generation with modulus
-   3. Reducing error accumulation in floating-point summation
-   4. High precision single pass (online) variance calculations
