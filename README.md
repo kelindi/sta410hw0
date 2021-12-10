@@ -8,7 +8,7 @@ This assignment introduces Python through the following foundational computation
 3. Floating-point error accumulation reduction
 4. High precision single pass variance calculations
 
-
+### Access
 UofT students may access this the collection of programming problems with the [UofT JupyterHub](https://jupyter.utoronto.ca) via
 
 > https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw0&branch=master
