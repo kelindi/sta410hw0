@@ -6,7 +6,14 @@ UofT students may access this the collection of programming problems with the [U
 > https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https://github.com/pointOfive/sta410hw0&branch=master
 
 - Some notes to faciltate getting started in this environment are available on the UofT JupyterHub [support page](https://act.utoronto.ca/jupyterhub-support/).
-- An alternative computing resource available without UofT authentication is [google colab](http://colab.research.google.com).
+
+- If for some reason JupyterHub is not loading the repository, you can delete and reload repositories (after downloading and saving what you need).  
+> From JupyterHub, open a new terminal with `New` > `Terminal` and then use `yes y | rm -r <path to directory to delete>` to a delete the repository directory.
+
+Alternatively, this may also be accessed without UofT authentication with Google Colab via
+
+> https://colab.research.google.com/github/pointOfive/sta410hw0/blob/master/sta410hw0.ipynb
+
 
 0. [Programming Homework Assignment 0](sta410hw0.ipynb) introduces Python and some key topics underlying statistical computation 
    1. Bit string representation of integer value numbers
