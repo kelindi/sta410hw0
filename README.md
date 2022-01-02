@@ -23,10 +23,10 @@ Alternatively, the programming problems may also be accessed without UofT authen
 
 > https://colab.research.google.com/github/pointOfive/sta410hw0/blob/master/sta410hw0.ipynb
 
-If you're working in some other environment, 
+***If you're working in some other environment, 
 the versioning there must support [notebook format 4.5](https://github.com/jupyterlab/jupyterlab/issues/9729), e.g.,
 [jupyterlab](https://jupyter.org/install) version
 [3.0.13 or greater](https://github.com/jupyterlab/jupyterlab/releases/tag/v3.0.13);
-otherwise, your notebook cell-ids will not be supported and you will not get any credit for your submitted homework.
+otherwise, your notebook cell-ids will not be supported and you will not get any credit for your submitted homework.***
 
 > You may check if cell ids are present or changing at each save with `! grep '"id":' <path/to/notebook>.ipynb`
