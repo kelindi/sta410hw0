@@ -1,4 +1,10 @@
 # UofT STA410/2102 Statistical Computation
+
+Return to STA410 Programming Portfolio Parent Repository [here](https://github.com/pointOfive/STA410_HW/blob/master/README.md#uoft-sta4102102-statistical-computation).
+
+## Submitting Programming Portfolio Assignment 0
+Submit `.ipynb` file to [MarkUs](https://markus-ds.teach.cs.toronto.edu/) before the end of the calendar day (EoD) on the due date.
+
 ## Programming Portfolio Assignment 0
 
 [Programming Portfolio Assignment 0](sta410hw0.ipynb)  introduces Python through the following foundational computational and statistical computation problems:
